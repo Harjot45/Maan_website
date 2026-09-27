@@ -1,0 +1,15 @@
+Mann Australia website setup
+
+1. Keep all HTML files and style.css in one folder. Keep your existing assets/ image folder alongside them.
+2. The Quote and Contact forms use FormSubmit (formsubmit.co) to forward submissions to mannaustraliagroup@gmail.com. Form data passes through FormSubmit. The first submission triggers an activation email at that address. The owner must open the activation email and confirm the address before enquiries can be delivered normally.
+3. After activation, submit a genuine test enquiry from the live website and confirm it arrives. The form's confirmation screen is supplied by FormSubmit.
+4. The floating WhatsApp button uses +61 477 639 264. Confirm that this number is registered with WhatsApp; otherwise remove the WhatsApp button and use the email button.
+5. The floating email button opens the visitor's email app. It is an alternative contact method, while the two website forms submit via FormSubmit.
+
+Kuninda Group update:
+- The website name is now Kuninda Group. Confirm the legal company name and replace old contact details if needed. The existing email and phone have been retained, including the FormSubmit delivery address.
+- The isolated kangaroo emblem is included at assets/kuninda-logo.png and appears alongside Kuninda Group in the header and footer, and by itself in the browser tab.
+- Place the referenced truck photos in assets/ using their current filenames. Decorative photos below the first screen load when needed; unavailable images show a neutral colour.
+- The kangaroo emblem was isolated from the supplied banner. Truck photos are still required in assets/ for the photo sections.
+
+Motion update: scroll progress indicator, animated hero, section reveals, subtle image hover and compact navigation while scrolling. Reduced-motion settings turn off decorative animation.
